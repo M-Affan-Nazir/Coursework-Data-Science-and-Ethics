@@ -4,3 +4,7 @@
 ### Summary of content Learned:
 - Data Analysis & Visualization Techniques
 - NumPy, Pandas
+- k-anonymity
+- l-diversity
+- t-scores
+- Differential Privacy
