@@ -7,4 +7,5 @@
 - k-anonymity
 - l-diversity
 - t-scores
+- Randomized Responses
 - Differential Privacy
