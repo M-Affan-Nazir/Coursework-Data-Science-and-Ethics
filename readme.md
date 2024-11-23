@@ -22,3 +22,6 @@
 - Visualization Techniques
 - Linear Regression
 - Logistic Regression
+
+# Explaining Machine Learning Models:
+- LIME
