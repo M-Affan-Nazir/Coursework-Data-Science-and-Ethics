@@ -24,4 +24,4 @@
 - Logistic Regression
 
 ### Explaining Machine Learning Models:
-- LIME
+- Local Interpretable Model-Agnostic Explanations (LIME)
