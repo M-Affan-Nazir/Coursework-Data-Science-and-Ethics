@@ -25,3 +25,4 @@
 
 ### Explaining Machine Learning Models:
 - Local Interpretable Model-Agnostic Explanations (LIME)
+- Shapley Additive Explainations (SHAP)
