@@ -22,6 +22,7 @@
 - Visualization Techniques
 - Linear Regression
 - Logistic Regression
+- Random Forest
 
 ### Explaining Machine Learning Models:
 - Local Interpretable Model-Agnostic Explanations (LIME)
